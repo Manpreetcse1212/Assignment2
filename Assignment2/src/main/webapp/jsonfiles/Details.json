@@ -1,0 +1,73 @@
+{
+	"FirstName": [
+		"Manpreet",
+		"Manpreet",
+		"Bhumika",
+		"Ashik",
+		"Hardeep"
+	],
+	"LastName": [
+		"Kaur",
+		"Kaur",
+		"Patel",
+		"Patel",
+		"Kaur"
+	],
+	"Address": [
+		{
+			"city": "Scarbourough",
+			"state": "Ontario"
+		},
+		{
+			"city": "Petersbourough",
+			"state": "Ontario"
+		},
+		{
+			"city": "London",
+			"state": "Ontario"
+		},
+		{
+			"city": "Hamilton",
+			"state": "Ontario"
+		},
+		{
+			"city": "Brampton",
+			"state": "Ontario"
+		}
+	],
+	"Subject1": [
+		95,
+		98,
+		99,
+		97,
+		95
+	],
+	"Subject2": [
+		87.5,
+		89,
+		99,
+		85.5,
+		87
+	],
+	"Subject3": [
+		89,
+		85.5,
+		89,
+		90,
+		91
+	],
+	"Subject4": [
+		91.5,
+		92,
+		93,
+		94,
+		98
+	],
+	"Subject5": [
+		98,
+		96,
+		94,
+		84,
+		85.5
+	]
+}

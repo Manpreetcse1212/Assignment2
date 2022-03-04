@@ -32,7 +32,7 @@ public class CalcServlet extends HttpServlet {
 	 */
 	public CalcServlet() {
 		super();
-		// TODO Auto-generated constructor stub
+		// Comment1
 	}
 
 	/**
